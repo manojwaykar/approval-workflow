@@ -1,0 +1,22 @@
+@"
+
+# Build output
+target/
+
+# IDE files
+.idea/
+*.iml
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Local configuration overrides
+application-local.yml
+application-local.yaml
+"@ | Add-Content .\.gitignore
