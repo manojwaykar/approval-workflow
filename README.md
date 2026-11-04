@@ -97,7 +97,7 @@ Install the following before running the application:
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/manojwaykar/approval-workflow.git>
+git clone https://github.com/manojwaykar/approval-workflow.git
 cd approval-workflow
 ```
 
